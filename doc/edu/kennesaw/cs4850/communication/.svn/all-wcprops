@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication
+END
+MessageRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/MessageRequest.html
+END
+Message.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/Message.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/package-tree.html
+END
+EncryptedMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/EncryptedMessage.html
+END
+NormalMessage.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/NormalMessage.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/package-summary.html
+END
+MessageRequest.MessagePurpose.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/communication/MessageRequest.MessagePurpose.html
+END

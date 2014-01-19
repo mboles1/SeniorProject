@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/package-frame.html
+END
+AndroidClientDatabase.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/AndroidClientDatabase.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/package-tree.html
+END
+SQLiteConnector.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/SQLiteConnector.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/package-use.html
+END
+DatabaseFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/DatabaseFactory.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/package-summary.html
+END
+MySQLDatabase.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/dbs/MySQLDatabase.html
+END

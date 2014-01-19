@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views
+END
+StatisticsView.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/StatisticsView.html
+END
+DBViewFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/DBViewFactory.html
+END
+PolicyView.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/PolicyView.html
+END
+TestView.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/TestView.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/package-frame.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/package-tree.html
+END
+UserProfileView.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/UserProfileView.html
+END
+RegisteredUserView.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/RegisteredUserView.html
+END
+ClaimView.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/ClaimView.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/package-summary.html
+END
+CoveredItemView.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/CoveredItemView.html
+END
+TransView.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/127/trunk/doc/edu/kennesaw/cs4850/database/views/TransView.html
+END

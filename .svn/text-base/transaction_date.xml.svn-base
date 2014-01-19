@@ -1,0 +1,22 @@
+<transaction>
+<trans_guid>1c77b1c9-825d-430f-a3d6-cb1292a27a73
+<table>user_prof
+<id_guid>9c1083c2-2671-4116-8971-0c10c8205119
+<date_time>17 Mar 2012 20:21:22 GMT
+<type>1
+<seq>1
+<column>first_name</column>
+<value>Bob</value>
+<sql_type>SQL_CHAR</sql_type>
+</seq>
+<seq>2
+<column>last_name</column>
+<value>Brown</value>
+<sql_type>SQL_CHAR</sql_type>
+</seq>
+</type>
+</date_type>
+</id_guid>
+</table>
+</trans_guid>
+</transaction>

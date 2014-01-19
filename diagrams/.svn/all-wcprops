@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/120/trunk/diagrams
+END
+server_diagram.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/83/trunk/diagrams/server_diagram.png
+END
+RequestConnected.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/67/trunk/diagrams/RequestConnected.png
+END
+communication_diagram.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/83/trunk/diagrams/communication_diagram.png
+END
+database_diagram.png
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/83/trunk/diagrams/database_diagram.png
+END
+Synchronization_Process.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/120/trunk/diagrams/Synchronization_Process.png
+END
+ServerStartup.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/43/trunk/diagrams/ServerStartup.jpg
+END
+db_schema.png
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/84/trunk/diagrams/db_schema.png
+END

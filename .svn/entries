@@ -1,0 +1,172 @@
+10
+
+dir
+451
+https://senior-project-ksu-2012.googlecode.com/svn/trunk
+https://senior-project-ksu-2012.googlecode.com/svn
+
+
+
+2012-04-18T21:51:10.059602Z
+451
+mooman214@gmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+226f2db1-fbb9-8aeb-69a6-a2a20c7a50a2
+
+.classpath
+file
+
+
+
+
+2012-04-17T19:09:59.786000Z
+a010272818495acdd066494d3a1c4aca
+2012-02-25T19:40:52.186568Z
+156
+pgalasti@gmail.com
+
+.project
+file
+
+
+
+
+2012-04-17T19:09:56.393000Z
+9b178669b934b1f56236dd8f21a7164b
+2012-01-11T03:15:44.615189Z
+3
+pgalasti@gmail.com
+
+.settings
+dir
+
+AndroidManifest.xml
+file
+
+
+
+
+2012-04-17T19:10:04.416000Z
+7d71f155101d9ea8f233489258dcfe8b
+2012-04-15T16:24:03.495045Z
+426
+mooman214@gmail.com
+
+archive
+dir
+
+assets
+dir
+
+bin
+dir
+
+diagrams
+dir
+
+doc
+dir
+
+errors
+dir
+
+gen
+dir
+
+mysql-connector-java-5.1.18-bin.jar
+file
+
+
+
+
+2012-04-17T19:09:56.716000Z
+78467fb2adf7f02bcfbff3ad022bc4e9
+2012-01-19T16:33:31.596961Z
+23
+pgalasti
+has-props
+
+mysql.jar
+file
+
+
+
+
+2012-04-17T19:09:56.345000Z
+fa52e6f2e3433c65a9dd14c565030569
+2012-01-19T16:33:31.596961Z
+23
+pgalasti
+has-props
+
+proguard.cfg
+file
+
+
+
+
+2012-04-17T19:09:56.352000Z
+03ea0fdd0a4aabc43b80216d64438921
+2012-01-11T03:15:44.615189Z
+3
+pgalasti@gmail.com
+
+project.properties
+file
+
+
+
+
+2012-04-17T19:09:59.790000Z
+12eda0622d0d9a5195202bae2b5723aa
+2012-01-11T03:15:44.615189Z
+3
+pgalasti@gmail.com
+
+res
+dir
+
+src
+dir
+
+transaction_date.xml
+file
+
+
+
+
+2012-04-17T19:09:56.356000Z
+2a0386ed55569b6ac3f93aeae22a49ad
+2012-03-21T01:56:11.304393Z
+200
+pgalasti@gmail.com
+
+working
+dir
+
+xpp3-1.1.4.jar
+file
+
+
+
+
+2012-04-17T19:09:59.873000Z
+6369888b2662bd8e5fcbf9ce453a2cf9
+2012-03-27T21:44:22.125835Z
+261
+pgalasti@gmail.com
+has-props
+

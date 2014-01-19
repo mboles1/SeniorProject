@@ -1,0 +1,173 @@
+<resources>
+    <string name="menu_settings">Settings</string>
+    <string name="sp_image_desc">Kennesaw State University Owl Logo</string>
+    <string name="claim_description">Description</string>
+    <string name="claim_comment">Comment</string>
+    <string name="cancel">Cancel</string>
+    <string name="claim_content_desc">TODO</string>
+    <string name="Customer_Service">Customer/Claim Services</string>
+    <string name="app_name">InsureMobile</string>
+    <string name="contact">Contact Agent</string>
+    <string name="Help">Help</string>
+    <string name="insurance_name">InsureMobile</string>
+    <string name="find">Find Local Shop</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="policy_number">Policy Number</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_Name">Last Name</string>
+    <string name="Policy_Number">Policy Number</string>
+    <string name="policy_number_hint">Policy #</string>
+    <string name="Past_Policy_Search">Search for Past Policy</string>
+    <string name="Account_Info">Edit Account Info</string>
+    <string name="Save">Save</string>
+    <string name="policy_number2">Other\'s Policy Number</string>
+    <string name="policy_number2_hint">Others\' Policy #</string>
+    <string name="camera_button">Camera (Optional)</string>
+    <string name="submit_button">Submit Information</string>
+    <string name="insurance_company">Other\'s Insurance Company</string>
+    <string name="police_report">Police Report</string>
+    <string name="help_title">Help</string>
+    <string name="search_title">Past Policies</string>
+    <string name="time_range">Time Range:</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="past_email">Old Email</string>
+    <string name="new_email">New Email</string>
+    <string name="past_phone">Old Phone Number</string>
+    <string name="new_phone">New Phone Number</string>
+    <string name="customer_service_title"><b><u>Customer/Claim Services</u></b></string>
+    <string name="Customer_Services_Alert">Customer Services</string>
+    <string name="customer_explanation">File a Claim, Search Past Policies, or Edit Account Information</string>
+    <string name="contact_explanation">Calls your local agent</string>
+    <string name="contact_title"><b><u>Contact</u></b></string>
+    <string name="find_title"><b><u>Find Local Shop</u></b></string>
+    <string name="find_explanation">Locates the nearest Service Station(s) based on current location</string>
+    <string name="back_button">Home</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="welcome">Welcome to InsureMobile</string>
+    <string name="new_account">Create Account</string>
+    <string name="policy_start_date">Start Date</string>
+    <string name="coverage_amount">Coverage Amount</string>
+    <string name="add_account">Add Account</string>
+    <string name="edit_account">Edit Account</string>
+    <string name="add_policy">Add Policy</string>
+    <string name="edit_policy">Edit Policy</string>
+    <string name="add_item">Add Item</string>
+    <string name="address_hint">Address</string>
+    <string name="add_account_phone">Phone Number</string>
+    <string name="city_hint">City</string>
+    <string name="add_account_email">Email</string>
+    <string name="ssn">SSN</string>
+    <string name="zip_hint">Zip</string>
+
+    <string-array name="state_spinner">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NN</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="other_companies">
+        <item>StateFarm</item>
+        <item>Geico</item>
+        <item>Allstate</item>
+        <item>AAA</item>
+        <item>Esurance</item>
+        <item>Liberty Mutual</item>
+        <item>Progressive</item>
+        <item>21st Century</item>
+        <item>Nationwide</item>
+        <item>USAA</item>
+    </string-array>
+    <string-array name="time">
+        <item>6 Months</item>
+        <item>12 Months</item>
+        <item>18 Months</item>
+        <item>24 Months</item>
+        <item>30 Months</item>
+        <item>36 Months</item>
+        <item>42 Months</item>
+        <item>48 Months</item>
+    </string-array>
+    <string-array name="policy_item">
+        <item>6 Months</item>
+        <item>12 Months</item>
+        <item>18 Months</item>
+        <item>24 Months</item>
+        <item>30 Months</item>
+        <item>36 Months</item>
+        <item>42 Months</item>
+        <item>48 Months</item>
+    </string-array>
+    <string-array name="customer_support">
+        <item>File A Claim</item>
+        <item>Search for Past Policy</item>
+        <item>Edit Account</item>
+        <item>Add Policy/Item</item>
+        <item>Edit Policy/Item</item>
+          />   </string-array>
+
+    <string name="time_prompt">Months</string>
+    <string name="add_item_color">Item Color</string>
+    <string name="add_item_vin">VIN #</string>
+    <string name="add_item_model">Item Model</string>
+    <string name="add_item_make">Item Make</string>
+    <string name="add_item_year">Item Year</string>
+    <string name="item_des_add_item">Item Description</string>
+    <string name="state_prompt">Select Your State</string>
+    <string name="claim_form">Claim Form</string>
+    <string name="policy_length">Policy Length</string>
+    <string name="login_submit">Login</string>
+    <string name="edit_item_button">Edit Item</string>
+    <string name="policy_items">Items in Policy</string>
+    <string name="select_policy_string">Select Policy</string>
+    <string name="edit_item">Edit Item</string>
+
+</resources>

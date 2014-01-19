@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/437/trunk/res/layout
+END
+claim_form.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/335/trunk/res/layout/claim_form.xml
+END
+find.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/130/trunk/res/layout/find.xml
+END
+login.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/304/trunk/res/layout/login.xml
+END
+add_account.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/312/trunk/res/layout/add_account.xml
+END
+add_policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/437/trunk/res/layout/add_policy.xml
+END
+contact.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/130/trunk/res/layout/contact.xml
+END
+add_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/303/trunk/res/layout/add_item.xml
+END
+help.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/303/trunk/res/layout/help.xml
+END
+main_splash_page.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/305/trunk/res/layout/main_splash_page.xml
+END
+cam_test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/282/trunk/res/layout/cam_test.xml
+END
+test_user_profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/321/trunk/res/layout/test_user_profile.xml
+END
+new_reg_user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/321/trunk/res/layout/new_reg_user.xml
+END
+policy_search.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/230/trunk/res/layout/policy_search.xml
+END
+select_policy.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/425/trunk/res/layout/select_policy.xml
+END

@@ -1,0 +1,6 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="Main Settings">
+<CheckBoxPreference android:summary="Set this option to not require the app to need to request and synchronize with the server. Used for testing." android:title="Simulate Server Connection" android:key="sim_server"/>
+<EditTextPreference android:defaultValue="galasti.is-leet.com" android:title="Server Hostname/IP" android:summary="Change the server's address for the app to communicate to." android:key="server_address"/>
+</PreferenceCategory>
+</PreferenceScreen>

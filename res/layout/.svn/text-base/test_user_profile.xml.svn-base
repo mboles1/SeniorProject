@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/test_editview_parentLL"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/test_et_firstname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="First Name" android:text="Phil"/>
+
+            <EditText
+                android:id="@+id/test_et_lastname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Last name" android:text="Anderson"/>
+
+            <EditText
+                android:id="@+id/test_et_address1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Address 1" android:text="123 Happy Street"/>
+
+            <EditText
+                android:id="@+id/test_et_address2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Address 2" android:text="Blah"/>
+
+            <EditText
+                android:id="@+id/test_et_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="City" android:text="Atlanta"/>
+
+            <EditText
+                android:id="@+id/test_et_state"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="State" android:text="GA"/>
+
+            <EditText
+                android:id="@+id/test_et_zip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Zip" android:text="30144"/>
+
+            <EditText
+                android:id="@+id/test_et_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="Phone" android:text="111111111"/>
+
+            <EditText
+                android:id="@+id/test_et_ssn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="SSN" android:text="22222222">
+
+                <requestFocus />
+            </EditText>
+
+            <EditText
+                android:id="@+id/test_et_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:hint="E-Mail" android:text="testing"/>
+
+            <Button
+                android:id="@+id/test_btn_savetest"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Save Test Record" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
